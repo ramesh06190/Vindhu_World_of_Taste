@@ -1,9 +1,9 @@
 # Vindhu_World_of_Taste
 
-Project Management Plan Version 1.4 
-Date: 06/09/2023
+## Project Management Plan Version 1.4 
+## Date: 06/09/2023
 
-Project Name: Vindhu-World of Taste Restaurant Website
+### Project Name: Vindhu-World of Taste Restaurant Website
 1.	Introduction/Overview of Project: The Vindhu-World of Taste Restaurant Website project aims to develop a comprehensive website that will enable efficient management of restaurant operations, including reservation management, order pickup and delivery, menu display, customer feedback, and online promotions. The website will serve as a digital platform to enhance customer experience and streamline the restaurant's operations.
 1.1	Project Organization: 
  
